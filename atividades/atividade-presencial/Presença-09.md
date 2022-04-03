@@ -1,6 +1,7 @@
 **Defina uma Tabela e exemplifique o uso de comando SQL que executam operações CRUD.**
 
-**1. CREATE** {space}
+**1. CREATE**
+{space}
 CREATE TABLE "TB_CLIENTE" (
 	"ID_CLI"	INTEGER NOT NULL,
 	"COD_CLI"	INTEGER NOT NULL UNIQUE,
