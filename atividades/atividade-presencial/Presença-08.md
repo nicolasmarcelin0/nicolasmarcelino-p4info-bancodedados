@@ -1,7 +1,7 @@
-**Quanto a Abordagem Relacional, descreva os seguintes conceitos:
+**Quanto a Abordagem Relacional, descreva os seguintes conceitos:**
 
 
-a) Tabela**
+**a) Tabela**
 
 
 Coleção não ordenada de tuplas. Em outras palavras, conjunto de linhas. Existem campos em cada linha, cada um correspondendo a um determinado dado.
