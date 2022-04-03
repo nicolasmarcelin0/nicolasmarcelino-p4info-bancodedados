@@ -1,4 +1,6 @@
 **Quanto a Abordagem Relacional, descreva os seguintes conceitos:
+
+
 a) Tabela**
 
 
