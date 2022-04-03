@@ -12,5 +12,5 @@ Resulta do processamento de um dado e, em um determinado sistema, agrega de algu
 
 Arquivo armazenado e gerenciado por um sistema de arquivos convencional.
 
-**4) Banco de Dados**
+**4) Banco de Dados{space}**
 Conjunto de dados integrados em um conjunto. O objetivo desses dados é atender uma comunidade de usuários.
